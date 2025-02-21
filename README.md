@@ -1,2 +1,3 @@
 # Reliable-Electronics
-Project resolving an Reliable Electronics issue Database issues
+Project resolving a Reliable Electronics firm issue Database issues with Data Modeling and Implementation Techniques
+
